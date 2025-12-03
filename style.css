@@ -1,0 +1,34 @@
+body {
+  margin: 20px;
+  border: 5px dotted;
+}
+
+h1 {border-bottom: 3px solid;
+	transform: translateY(-25px)}
+          
+html {background: black;
+	color: white;
+	text-align: center;
+	font-family: "agency fb";
+	font-size: 30px;}
+
+select, input, button {background: transparent;
+	color: white;
+	border: 3px solid;
+	transform: translateY(-5px);
+	border-radius: 5px;
+	text-align: center;
+	font-family: "agency fb"}
+
+select {width:80%}
+
+input {width: 79%;}
+
+button {width: 50%;
+	height: 35px;
+	border-radius: 25px}
+
+option {border: 2px solid white;
+	background: gray;
+	color: black;}
+
