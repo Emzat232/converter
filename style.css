@@ -28,7 +28,17 @@ button {width: 50%;
 	height: 35px;
 	border-radius: 25px}
 
+button:hover {border-color: rgb(120, 120, 120);
+background: white;
+color: black;
+text-decoration: underline} 
+
 option {border: 2px solid white;
 	background: gray;
 	color: black;}
 
+.main {height: 85vh;}
+
+.body {align-content: center;
+	height: 100%;
+	transform: translateY(-15vh)}
